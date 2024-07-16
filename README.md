@@ -1,3 +1,5 @@
+## [micronaut-serialization](https://github.com/micronaut-projects/micronaut-serialization/issues/890) issue
+
 ## Micronaut 4.5.0 Documentation
 
 - [User Guide](https://docs.micronaut.io/4.5.0/guide/index.html)
